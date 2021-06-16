@@ -1,0 +1,86 @@
+body
+{
+    background-color: rgb(0, 255, 255);
+}
+h1
+{
+    text-align: center;
+}
+b
+{
+    color: rgb(132, 8, 248);
+}
+.bob3
+{
+    background-color: rgb(223, 219, 219);
+    border-radius: 20px;
+    width: 500px;
+}
+#Ac
+{
+    height: 150px;
+    width: 300px;
+    border-radius: 30px;
+}
+#bottel
+{
+    height: 300px;
+    width: 150px;
+    border-radius: 30px;
+}
+#clock
+{
+    height: 200px;
+    width: 200px;
+    border-radius: 30px;
+}
+#cylinder
+{
+    height: 250px;
+    width: 150px;
+    border-radius: 30px;
+}
+#fan
+{
+    height: 200px;
+    width: 250px;
+    border-radius: 30px;
+}
+#keyboard
+{
+    border-radius: 30px;
+}
+#remote
+{
+    height: 350px;
+    width: 150px;
+    border-radius: 30px;
+}
+#siccor
+{
+    height: 250px;
+    width: 150px;
+    border-radius: 30px;
+}
+#spoon
+{
+    height: 300px;
+    width: 150px;
+    border-radius: 30px;
+}
+#switch_board
+{
+    height: 150px;
+    width: 300px;
+    border-radius: 30px;
+}
+b
+{
+    color: red;
+}
+.suggestion
+{
+    text-align: center;
+    background-color: pink;
+    border-radius: 30px;
+}
